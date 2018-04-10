@@ -9,7 +9,7 @@ Construir una aplicación web para una persona basado en el famoso juego de **Po
 Para el correcto desarrollo de la prueba, es necesario que tenga en cuenta los siguientes puntos:
 + Clone el repositorio y trabaje en la solución `Codifico.SemiSenior.sln`.
 + Cree un proyecto privado de **GitLab** (free) o un repositorio privado de **GitHub** ($).
-+ Otorgue permisos y acceso a **@CJavierSaldana** para realizar las pertinentes observaciones.
++ Otorgue permisos y acceso a **@Masj1a** y **@DiegoBernal182** para realizar las pertinentes observaciones.
 + Tenga en cuenta que la aplicación será ejecutada en otras máquinas. Asegúrese de no tener referencias locales.
 + No es necesario que se preocupe por las cartas. Encontrará un proyecto web con las cartas disponibles.
 
@@ -35,4 +35,5 @@ Para el correcto desarrollo de la prueba, es necesario que tenga en cuenta los s
    + Hay Color?
 
 #### Info
-+ Javiers@nserio.com
++ marlons@codifico.co
++ diegob@codifico.co
